@@ -1,5 +1,5 @@
 
-## Install Bootstrap CSS with React, Vue, Svelte
+## Install Bootstrap CSS with Angular React, Vue, Svelte
 
 [React](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
 
@@ -86,3 +86,55 @@ Test
       A simple dark alert—check it out!
   </div>
 ```
+---
+
+[Angular](https://bootstrap-vue.org/docs)
+
+Icon Bootstrap
+```bash
+npm install bootstrap bootstrap-icons
+```
+
+import in angular.json
+```bash
+"styles": [
+  "node_modules/bootstrap-icons/font/bootstrap-icons.css",
+],
+```
+
+[Install Bootstrap](https://bootstrap-vue.org/docs)
+```bash
+ng add @ng-bootstrap/ng-bootstrap
+```
+
+angular.json
+
+css
+```bash
+"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+"node_modules/bootstrap/css/bootstrap.css",
+"src/styles.css",
+```
+
+scss
+```bash
+"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+"node_modules/bootstrap/scss/bootstrap.scss",
+"src/styles.scss"
+```
+
+sass
+```bash
+"node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+"node_modules/bootstrap/sass/bootstrap.sass",
+"src/styles.sass"
+```
+
+Test
+```bash
+<div class="alert alert-warning" role="alert">
+    A simple dark alert—check it out!
+</div>
+```
+
+---

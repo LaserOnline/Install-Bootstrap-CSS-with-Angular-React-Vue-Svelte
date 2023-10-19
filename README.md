@@ -10,9 +10,14 @@ Create your project
   cd my-project
 ```
 
-Install Bootstrap CSS 
+npm Install Bootstrap 
 ```bash
   npm install react-bootstrap bootstrap
+```
+
+yarn Install Bootstrap 
+```bash
+  yarn install react-bootstrap bootstrap
 ```
 
 main.tsx
@@ -38,11 +43,12 @@ Create your project
   cd my-project
 ```
 
-Install Bootstrap CSS
+npm Install Bootstrap
 ```bash
   npm install vue bootstrap bootstrap-vue
 ```
 
+yarn Install Bootstrap
 ```bash
   yarn add vue bootstrap bootstrap-vue
 ```
@@ -70,9 +76,14 @@ Create your project
   cd my-project
 ```
 
-Install Bootstrap CSS
+npm Install Bootstrap
 ```bash
   npm install bootstrap
+```
+
+yarn Install Bootstrap
+```bash
+  yarn install bootstrap
 ```
 
 main.ts

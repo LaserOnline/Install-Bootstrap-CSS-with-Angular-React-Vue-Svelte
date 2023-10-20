@@ -99,7 +99,7 @@ Test
 ```
 ---
 
-[Angular](https://bootstrap-vue.org/docs)
+[Angular]([https://bootstrap-vue.org/docs](https://www.freecodecamp.org/news/how-to-add-bootstrap-css-framework-to-an-angular-application/))
 
 Icon Bootstrap
 ```bash
@@ -113,7 +113,6 @@ import in angular.json
 ],
 ```
 
-[Install Bootstrap](https://bootstrap-vue.org/docs)
 ```bash
 ng add @ng-bootstrap/ng-bootstrap
 ```
